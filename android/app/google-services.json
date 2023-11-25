@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "102428200430",
+    "project_id": "skygulf-b5510",
+    "storage_bucket": "skygulf-b5510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102428200430:android:f2233888fcfddf934fd2ff",
+        "android_client_info": {
+          "package_name": "com.gulfsky.provider.gulf_sky_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102428200430-49e1udouucs3dechntl0s2b2siddr6g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMApcBi1AdJ4ejXPrbDkMToBXBdR2s-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102428200430-49e1udouucs3dechntl0s2b2siddr6g0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102428200430-avv2jgcj9kf6mvgtec5nd918i9e5k638.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Ali.SkyGulfIos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
