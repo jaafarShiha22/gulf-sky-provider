@@ -1,6 +1,8 @@
 # gulf_sky_provider
 
-A new Flutter project.
+This Flutter project has been made with:
+- Clean architecture. 
+- BLoC as a state management.
 
 ## Getting Started
 
